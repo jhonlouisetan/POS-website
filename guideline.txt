@@ -1,0 +1,5 @@
+add POSwebProg folder to xampp/htdocs
+
+import posinventory.sql to local database named "posinventory"(must create empty database in xampp mysql)
+
+run "localhost/POSWEBPROG/admin_screen.php" in browser
