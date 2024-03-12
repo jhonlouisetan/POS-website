@@ -5,6 +5,6 @@ A prototype POS website.
 A final exam project for IT103P Web Programming
 
 ## Members
-- Alfred Ashley Andrion
-- Jhon Louise Tan
-- Abdul Aziz Uy
+- Alfred Ashley Andrion (Project Manager)
+- Jhon Louise Tan (Document-In-Charge)
+- Abdul Aziz Uy (Developer)
